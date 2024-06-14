@@ -53,7 +53,7 @@ async def main():
    #user_api_key = st.sidebar.text_input(label="#### Your OpenAI API key", placeholder="Paste your openAI API key, sk-", type="password")
                
    #os.environ["OPENAI_API_KEY"] = user_api_key
-   os.environ["OPENAI_API_KEY"] = "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"
+   os.environ["OPENAI_API_KEY"] = "Your OpenAI API key"
    #uploaded_file = st.sidebar.file_uploader("upload", type="csv", label_visibility="hidden")
    #uploaded_file =st.file_uploader("Consolidate.csv", type="csv")
    uploaded_file =  open("college_information.csv", "rb")
