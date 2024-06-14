@@ -22,7 +22,7 @@
 
 First, create a virtual environment to ensure that your project's dependencies are isolated. Open your terminal or command prompt and navigate to your project directory, then run:
 
-```sh
+
 python -m venv venv
 
 ### Step 2: Activate the Virtual Environment
